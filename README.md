@@ -1,0 +1,3 @@
+# MIXTAPEnotes
+**Laravel, MySQL, Tailwind**<br />
+PHP CRUD application to create music playlists with personal notes. The application is based on Spotify Web API endpoints. After registering and logging in the user lands on the DISCOVER page, where a track can be searched for or a random suggested song from a Spotify playlist can be added to their “mixtape”. On the MY MIXTAPE page the user can add and view notes for songs, or delete songs from their list.
